@@ -1,0 +1,2 @@
+# FMEdemo
+jarak gempa
